@@ -1,0 +1,36 @@
+.container {
+    width: 40%;
+    margin: 5px auto;
+    border: 1px solid #bbb;
+    padding: 20px;
+}
+form {
+    background: #fff;
+}
+input[type=text] {
+    background: rgb(252, 165, 3);
+    color: rgb(14, 14, 13);
+    width: 98%;
+    height: 55px;
+    font-size: 18px;
+    border: 0;
+    margin-bottom: 9px;
+}
+input[type=button] {
+    background: #fff;
+    width: 24%;
+    font-size: 20px;
+    border: 1px solid #bbb;
+    padding: 10px;
+    cursor: pointer;
+}
+input:focus {
+    border: 0;
+}
+
+#Math {
+    background: rgb(252, 165, 3);
+    color: rgb(10, 10, 10);
+    border: 0px solid black;
+}
+
